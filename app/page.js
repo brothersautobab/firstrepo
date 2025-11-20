@@ -1,0 +1,1 @@
+export default function Home() { return (<main>Brothers AutoSpa Placeholder</main>); }
